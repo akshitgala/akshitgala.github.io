@@ -1,29 +1,128 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akshit.com" resolutions="1x,2x" timestamp="1490899988594">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akshitgala.github.io" resolutions="1x,2x" timestamp="1490909484965">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="187468369" ref="index"/>
-    <file name="index.css" crc="350389869" ref="index"/>
+    <file name="master_a-master.css" crc="3766876882" ref="index:untitled-3:untitled-4"/>
+    <file name="index.css" crc="217566275" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="342588454" ref="index:untitled-3:untitled-4"/>
+    <file name="nomq_index.css" crc="4205335646" ref="index"/>
+    <file name="untitled-3.css" crc="3946994584" ref="untitled-3"/>
+    <file name="nomq_untitled-3.css" crc="468989981" ref="untitled-3"/>
+    <file name="untitled-4.css" crc="4064890983" ref="untitled-4"/>
+    <file name="nomq_untitled-4.css" crc="345597910" ref="untitled-4"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3849126041" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-3:untitled-4"/>
+    <file name="museutils.js" crc="4232573551" ref="index:untitled-3:untitled-4"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-3:untitled-4"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:untitled-3:untitled-4"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:untitled-3:untitled-4"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:untitled-3:untitled-4"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:untitled-3:untitled-4"/>
+    <file name="require.js" crc="4234670167" ref="index:untitled-3:untitled-4"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:untitled-3:untitled-4"/>
   </folder>
   <folder name="images">
-    <file name="u194-4.png" crc="4125890403" ref="index"/>
-    <file name="u194-4_2x.png" crc="3816552207" ref="index"/>
-    <file name="logo.png" crc="64439509" seo="true" ref="index">
+    <file name="u194-4.png" crc="476563510" ref="index:untitled-3:untitled-4"/>
+    <file name="u194-4_2x.png" crc="4243231021" ref="index:untitled-3:untitled-4"/>
+    <file name="logo.png" crc="64439509" seo="true" ref="index:untitled-3:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="logo_2x.png" crc="4088503228" seo="true" ref="index:untitled-3:untitled-4">
+      <caption webpage="index" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:untitled-3:untitled-4"/>
+    <file name="logo176x56.png" crc="188927549" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo_2x.png" crc="4088503228" seo="true" ref="index">
+    <file name="logo176x56_2x.png" crc="330651503" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="logo137x43.png" crc="3976222395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo137x43_2x.png" crc="4241906282" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper.jpg" crc="4196032609" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper_2x.jpg" crc="250721809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper408x271.jpg" crc="3819815053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper408x271_2x.jpg" crc="139587317" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper382x254.jpg" crc="184584772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper382x254_2x.jpg" crc="3876881524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper170x113.jpg" crc="3759713091" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wallpaper170x113_2x.jpg" crc="4031018964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dsc_2602 croped.jpg" crc="3774147924" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="dsc_2602 croped_2x.jpg" crc="117927964" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="dsc_2602 croped729x520.jpg" crc="438878096" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="dsc_2602 croped729x520_2x.jpg" crc="3840510708" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="dsc_2602 croped681x486.jpg" crc="207243278" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="dsc_2602 croped681x486_2x.jpg" crc="166240433" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="dsc_2602 croped304x217.jpg" crc="280069747" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="dsc_2602 croped304x217_2x.jpg" crc="3922142143" seo="true" ref="untitled-3">
+      <caption webpage="untitled-3" alt=""/>
+    </file>
+    <file name="dsc_6759.jpg" crc="354726777" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="dsc_6759_2x.jpg" crc="300170157" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="dsc_6759729x729.jpg" crc="24205" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="dsc_6759729x729_2x.jpg" crc="3881471421" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="dsc_6759681x681.jpg" crc="463975412" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="dsc_6759681x681_2x.jpg" crc="3759514721" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="dsc_6759304x304.jpg" crc="4264622271" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
+    <file name="dsc_6759304x304_2x.jpg" crc="161222187" seo="true" ref="untitled-4">
+      <caption webpage="untitled-4" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="146269786" seo="true" mt="1490899733829" redirect="true"/>
+  <file name="index.html" crc="264599860" seo="true" mt="1490909453262" redirect="true"/>
+  <file name="untitled-3.html" crc="471341773" seo="true" mt="1490909453262" redirect="true"/>
+  <file name="untitled-4.html" crc="4019491021" seo="true" mt="1490909471795" redirect="true"/>
 </manifest>
