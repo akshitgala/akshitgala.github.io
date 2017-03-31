@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akshitgala.github.io" resolutions="1x,2x" timestamp="1490943200582">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akshitgala.github.io" resolutions="1x,2x" timestamp="1490945106332">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4089794255" ref="index"/>
-    <file name="index.css" crc="3901004202" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="342588454" ref="index"/>
+    <file name="master_a-master.css" crc="3999032913" ref="index"/>
+    <file name="index.css" crc="165864124" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="199138900" ref="index"/>
     <file name="nomq_index.css" crc="70089936" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -24,13 +24,13 @@
     <file name="u194-4_2x.png" crc="3816552207" ref="index"/>
     <file name="logo.png" crc="64439509" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
       <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
     </file>
     <file name="logo_2x.png" crc="4088503228" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
       <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="logo202x64.png" crc="3779510486" seo="true" ref="index">
@@ -52,5 +52,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="440292014" seo="true" mt="1490943067962" redirect="true"/>
+  <file name="index.html" crc="412209555" seo="true" mt="1490945067679" redirect="true"/>
 </manifest>
