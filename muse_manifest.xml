@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akshitgala.github.io" resolutions="1x,2x" timestamp="1490945443291">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akshitgala.github.io" resolutions="1x,2x" timestamp="1490953257670">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4247642370" ref="index"/>
-    <file name="index.css" crc="331977041" ref="index"/>
+    <file name="master_a-master.css" crc="3999032913" ref="index"/>
+    <file name="index.css" crc="376595432" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="199138900" ref="index"/>
-    <file name="nomq_index.css" crc="240114958" ref="index"/>
+    <file name="nomq_index.css" crc="70089936" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -51,18 +51,6 @@
     <file name="logo84x27_2x.png" crc="255635737" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="whatsapp image 2017-03-31 at 125905 pm.jpg" crc="3907140412" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="whatsapp image 2017-03-31 at 125905 pm651x868.jpg" crc="3907140412" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="whatsapp image 2017-03-31 at 125905 pm509x678.jpg" crc="3897064085" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="whatsapp image 2017-03-31 at 125905 pm271x362.jpg" crc="4165219470" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="3771618112" seo="true" mt="1490945420122" redirect="true"/>
+  <file name="index.html" crc="3831004947" seo="true" mt="1490945796324" redirect="true"/>
 </manifest>
