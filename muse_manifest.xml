@@ -1,39 +1,43 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://akshitgala.github.io" resolutions="1x,2x" timestamp="1491430173344">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://akshitgala.github.io" resolutions="1x,2x" timestamp="1491430768133">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="264980784" ref="index"/>
-    <file name="index.css" crc="279645931" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="403568665" ref="index"/>
-    <file name="nomq_index.css" crc="477148149" ref="index"/>
+    <file name="master_a-master.css" crc="3932384484" ref="index:untitled-2"/>
+    <file name="index.css" crc="342421744" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="17483641" ref="index:untitled-2"/>
+    <file name="nomq_index.css" crc="3827232582" ref="index"/>
+    <file name="untitled-2.css" crc="4130986285" ref="untitled-2"/>
+    <file name="nomq_untitled-2.css" crc="4185333819" ref="untitled-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3849126041" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
-    <file name="webpro.js" crc="3770351119" ref="index"/>
-    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="4232573551" ref="index:untitled-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:untitled-2"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:untitled-2"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:untitled-2"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:untitled-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:untitled-2"/>
+    <file name="require.js" crc="4234670167" ref="index:untitled-2"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:untitled-2"/>
+    <file name="webpro.js" crc="3770351119" ref="index:untitled-2"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index:untitled-2"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u194-4.png" crc="4125890403" ref="index"/>
-    <file name="u194-4_2x.png" crc="3816552207" ref="index"/>
-    <file name="logo.png" crc="64439509" seo="true" ref="index">
+    <file name="u194-4.png" crc="4125890403" ref="index:untitled-2"/>
+    <file name="u194-4_2x.png" crc="3816552207" ref="index:untitled-2"/>
+    <file name="logo.png" crc="64439509" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="untitled-4" alt=""/>
     </file>
-    <file name="logo_2x.png" crc="4088503228" seo="true" ref="index">
+    <file name="logo_2x.png" crc="4088503228" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
       <caption webpage="untitled-3" alt=""/>
       <caption webpage="untitled-4" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:untitled-2"/>
     <file name="logo202x64.png" crc="3779510486" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -58,31 +62,39 @@
     <file name="bw_2x.jpg" crc="377788649" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u3557-4.png" crc="4206998594" ref="index"/>
-    <file name="u3557-4_2x.png" crc="149061129" ref="index"/>
-    <file name="facebook.png" crc="461684344" seo="true" ref="index">
+    <file name="u3557-4.png" crc="4206998594" ref="index:untitled-2"/>
+    <file name="u3557-4_2x.png" crc="149061129" ref="index:untitled-2"/>
+    <file name="facebook.png" crc="461684344" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="facebook_2x.png" crc="4191010095" seo="true" ref="index">
+    <file name="facebook_2x.png" crc="4191010095" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="instgram.png" crc="3977274302" seo="true" ref="index">
+    <file name="instgram.png" crc="3977274302" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="instgram_2x.png" crc="4081381370" seo="true" ref="index">
+    <file name="instgram_2x.png" crc="4081381370" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="twitter.png" crc="362251132" seo="true" ref="index">
+    <file name="twitter.png" crc="362251132" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="twitter_2x.png" crc="4150939804" seo="true" ref="index">
+    <file name="twitter_2x.png" crc="4150939804" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="youtube.png" crc="279810924" seo="true" ref="index">
+    <file name="youtube.png" crc="279810924" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
-    <file name="youtube_2x.png" crc="159285985" seo="true" ref="index">
+    <file name="youtube_2x.png" crc="159285985" seo="true" ref="index:untitled-2">
       <caption webpage="index" alt=""/>
+      <caption webpage="untitled-2" alt=""/>
     </file>
     <file name="bw-u3622-fr.jpg" crc="3893391941" ref="index"/>
     <file name="bw-u3622-fr_2x.jpg" crc="39914700" ref="index"/>
@@ -143,5 +155,6 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="280977886" seo="true" mt="1491430162721" redirect="true"/>
+  <file name="index.html" crc="3993869376" seo="true" mt="1491430630306" redirect="true"/>
+  <file name="untitled-2.html" crc="4108585623" seo="true" mt="1491430630306" redirect="true"/>
 </manifest>
