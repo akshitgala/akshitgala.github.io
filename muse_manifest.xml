@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://akshitgala.github.io" resolutions="1x,2x" timestamp="1491428931194">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://akshitgala.github.io" resolutions="1x,2x" timestamp="1491429784007">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="185065421" ref="index"/>
-    <file name="index.css" crc="60232593" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="4130702960" ref="index"/>
-    <file name="nomq_index.css" crc="3836875534" ref="index"/>
+    <file name="master_a-master.css" crc="11800732" ref="index"/>
+    <file name="index.css" crc="437245829" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="17483641" ref="index"/>
+    <file name="nomq_index.css" crc="184767639" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -88,26 +88,34 @@
     <file name="bw-u3622-fr_2x.jpg" crc="39914700" ref="index"/>
     <file name="facebook36x36.png" crc="52688051" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="facebook36x36_2x.png" crc="4191010095" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="instgram36x36.png" crc="3802664263" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="instgram36x36_2x.png" crc="4081381370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="twitter36x36.png" crc="3984558888" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="twitter36x36_2x.png" crc="4083022832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="youtube36x36.png" crc="176055880" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="youtube36x36_2x.png" crc="4048608296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="youtube39x39.png" crc="4012209023" seo="true" ref="index">
@@ -134,30 +142,6 @@
     <file name="twitter39x39_2x.png" crc="4230629616" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="youtube29x29.png" crc="504160491" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="youtube29x29_2x.png" crc="3992145593" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instgram29x29.png" crc="3862838992" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="instgram29x29_2x.png" crc="3807187803" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="facebook29x29.png" crc="4059619213" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="facebook29x29_2x.png" crc="4191010095" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter29x29.png" crc="352099972" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="twitter29x29_2x.png" crc="4059934338" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
   </folder>
-  <file name="index.html" crc="717958" seo="true" mt="1491428896895" redirect="true"/>
+  <file name="index.html" crc="4058930116" seo="true" mt="1491429746345" redirect="true"/>
 </manifest>
