@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://akshitgala.github.io" resolutions="1x,2x" timestamp="1491429784007">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://akshitgala.github.io" resolutions="1x,2x" timestamp="1491430173344">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="11800732" ref="index"/>
-    <file name="index.css" crc="437245829" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="17483641" ref="index"/>
-    <file name="nomq_index.css" crc="184767639" ref="index"/>
+    <file name="master_a-master.css" crc="264980784" ref="index"/>
+    <file name="index.css" crc="279645931" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="403568665" ref="index"/>
+    <file name="nomq_index.css" crc="477148149" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,13 +25,13 @@
     <file name="u194-4_2x.png" crc="3816552207" ref="index"/>
     <file name="logo.png" crc="64439509" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
     </file>
     <file name="logo_2x.png" crc="4088503228" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-4" alt=""/>
       <caption webpage="untitled-3" alt=""/>
+      <caption webpage="untitled-4" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="logo202x64.png" crc="3779510486" seo="true" ref="index">
@@ -143,5 +143,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4058930116" seo="true" mt="1491429746345" redirect="true"/>
+  <file name="index.html" crc="280977886" seo="true" mt="1491430162721" redirect="true"/>
 </manifest>
