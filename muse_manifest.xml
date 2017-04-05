@@ -1,10 +1,10 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akshitgala.github.io" resolutions="1x,2x" timestamp="1490979991084">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="https://akshitgala.github.io" resolutions="1x,2x" timestamp="1491426885385">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3803243774" ref="index"/>
-    <file name="index.css" crc="134712919" ref="index"/>
+    <file name="master_a-master.css" crc="4277944683" ref="index"/>
+    <file name="index.css" crc="108493471" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="494153849" ref="index"/>
-    <file name="nomq_index.css" crc="4000510903" ref="index"/>
+    <file name="nomq_index.css" crc="138376908" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -25,13 +25,13 @@
     <file name="u194-4_2x.png" crc="3816552207" ref="index"/>
     <file name="logo.png" crc="64439509" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
       <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
     </file>
     <file name="logo_2x.png" crc="4088503228" seo="true" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="untitled-3" alt=""/>
       <caption webpage="untitled-4" alt=""/>
+      <caption webpage="untitled-3" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="logo202x64.png" crc="3779510486" seo="true" ref="index">
@@ -60,8 +60,104 @@
     </file>
     <file name="u3557-4.png" crc="4206998594" ref="index"/>
     <file name="u3557-4_2x.png" crc="149061129" ref="index"/>
-    <file name="bw-u3682-fr.jpg" crc="3893391941" ref="index"/>
-    <file name="bw-u3682-fr_2x.jpg" crc="39914700" ref="index"/>
+    <file name="facebook.png" crc="4120591829" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook_2x.png" crc="403439551" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instgram.png" crc="4246159245" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instgram_2x.png" crc="4252328470" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="362487403" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter_2x.png" crc="160492045" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="3937263678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube_2x.png" crc="3888967343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bw-u3622-fr.jpg" crc="3893391941" ref="index"/>
+    <file name="bw-u3622-fr_2x.jpg" crc="39914700" ref="index"/>
+    <file name="facebook36x36.png" crc="403665150" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook36x36_2x.png" crc="517533389" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instgram36x36.png" crc="3795230015" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instgram36x36_2x.png" crc="364488395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter36x36.png" crc="4026117242" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter36x36_2x.png" crc="39129689" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube36x36.png" crc="3973174438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube36x36_2x.png" crc="3784236668" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook28x28.png" crc="4290875560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook28x28_2x.png" crc="3973546034" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instgram28x28.png" crc="514954395" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instgram28x28_2x.png" crc="243912439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter28x28.png" crc="3838630056" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter28x28_2x.png" crc="5256797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube28x28.png" crc="125602707" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube28x28_2x.png" crc="441788767" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook26x26.png" crc="4243950347" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook26x26_2x.png" crc="77066495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instgram26x26.png" crc="3839745985" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instgram26x26_2x.png" crc="395677436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter26x26.png" crc="368628870" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter26x26_2x.png" crc="216004485" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube26x26.png" crc="3919697863" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube26x26_2x.png" crc="321441809" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4044229523" seo="true" mt="1490979325227" redirect="true"/>
+  <file name="index.html" crc="152080433" seo="true" mt="1491426845903" redirect="true"/>
 </manifest>
