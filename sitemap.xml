@@ -1,141 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://akshitgala.github.io/index.html</loc>
-    <lastmod>2017-04-06</lastmod>
+    <loc>http://akshitgala.github.io/index.html</loc>
+    <lastmod>2017-08-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo.png</image:loc>
+      <image:loc>http://akshitgala.github.io/images/1111.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo_2x.png</image:loc>
+      <image:loc>http://akshitgala.github.io/images/bw-01.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo202x64.png</image:loc>
+      <image:loc>http://akshitgala.github.io/images/dsc_7099.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo202x64_2x.png</image:loc>
+      <image:loc>http://akshitgala.github.io/images/m6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo138x44.png</image:loc>
+      <image:loc>http://akshitgala.github.io/images/m7.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo138x44_2x.png</image:loc>
+      <image:loc>http://akshitgala.github.io/images/m8.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo84x27.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo84x27_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/facebook_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/instgram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/instgram_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/twitter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/twitter_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/youtube_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/facebook36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/facebook36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/instgram36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/instgram36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/twitter36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/twitter36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/youtube36x36.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/youtube36x36_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/youtube39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/youtube39x39_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/instgram39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/instgram39x39_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/facebook39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/facebook39x39_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/twitter39x39.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/twitter39x39_2x.png</image:loc>
+      <image:loc>http://akshitgala.github.io/images/m9.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>https://akshitgala.github.io/untitled-2.html</loc>
-    <lastmod>2017-04-06</lastmod>
+    <loc>http://akshitgala.github.io/assets/window-1.pdf</loc>
+    <lastmod>2017-07-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/logo_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/facebook.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/facebook_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/instgram.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/instgram_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/twitter.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/twitter_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/youtube.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://akshitgala.github.io/images/youtube_2x.png</image:loc>
-    </image:image>
   </url>
 </urlset>
