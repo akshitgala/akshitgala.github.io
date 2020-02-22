@@ -9,6 +9,19 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/index.html"/>
   </url>
   <url>
+    <loc>http://demo.museframe.com/phone/about-two.html</loc>
+    <lastmod>2020-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://demo.museframe.com/tablet/p2_image_1.html</loc>
+    <lastmod>2020-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_1.html"/>
+  </url>
+  <url>
     <loc>http://demo.museframe.com/tablet/p2_image_2.html</loc>
     <lastmod>2020-02-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -56,18 +69,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_7.html"/>
-  </url>
-  <url>
-    <loc>http://demo.museframe.com/phone/news.html</loc>
-    <lastmod>2020-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://demo.museframe.com/phone/about-two.html</loc>
-    <lastmod>2020-02-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/image_1.html</loc>
@@ -134,11 +135,10 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/image_5.html"/>
   </url>
   <url>
-    <loc>http://demo.museframe.com/tablet/p2_image_1.html</loc>
+    <loc>http://demo.museframe.com/phone/news.html</loc>
     <lastmod>2020-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_1.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/image_7.html</loc>
