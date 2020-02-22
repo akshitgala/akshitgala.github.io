@@ -1,21 +1,1325 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="akshitgala.github.io" resolutions="1x" timestamp="1558037214924">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.museframe.com" resolutions="1x,2x" timestamp="1582386051407">
   <folder name="css">
-    <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4078852126" ref="index"/>
-    <file name="index.css" crc="3815825380" ref="index"/>
+    <file name="site_global.css" crc="221441679"/>
+    <file name="master_a-master.css" crc="4167694860" ref="image_8:portfolio-2:about-us:contact:p2-image_4:image_1:p2-image_3:image_9:image_2:about-me:p2-image_1:image_3:p2-image_2:image_4:image_5:image_6:home-slider:image_7:home-video:index:service:portfolio-1:p2-image_6:p2-image_5:p2-image-8:p2-image_7:portfolio-3"/>
+    <file name="image_8.css" crc="327472142" ref="image_8"/>
+    <file name="iefonts_image_8.css" crc="165433201" ref="image_8"/>
+    <file name="portfolio-2.css" crc="190961323" ref="portfolio-2"/>
+    <file name="iefonts_portfolio-2.css" crc="4100130899" ref="portfolio-2"/>
+    <file name="about-us.css" crc="455962143" ref="about-us"/>
+    <file name="iefonts_about-us.css" crc="123656286" ref="about-us"/>
+    <file name="contact.css" crc="4110495137" ref="contact"/>
+    <file name="iefonts_contact.css" crc="483605750" ref="contact"/>
+    <file name="p2-image_4.css" crc="3942692323" ref="p2-image_4"/>
+    <file name="iefonts_p2-image_4.css" crc="3790674829" ref="p2-image_4"/>
+    <file name="image_1.css" crc="4044109606" ref="image_1"/>
+    <file name="iefonts_image_1.css" crc="236697774" ref="image_1"/>
+    <file name="p2-image_3.css" crc="462118348" ref="p2-image_3"/>
+    <file name="iefonts_p2-image_3.css" crc="241373863" ref="p2-image_3"/>
+    <file name="image_9.css" crc="429487491" ref="image_9"/>
+    <file name="iefonts_image_9.css" crc="366310943" ref="image_9"/>
+    <file name="image_2.css" crc="528025723" ref="image_2"/>
+    <file name="iefonts_image_2.css" crc="4137624468" ref="image_2"/>
+    <file name="about-me.css" crc="3814217793" ref="about-me"/>
+    <file name="iefonts_about-me.css" crc="532192101" ref="about-me"/>
+    <file name="p2-image_1.css" crc="3944537418" ref="p2-image_1"/>
+    <file name="iefonts_p2-image_1.css" crc="351013748" ref="p2-image_1"/>
+    <file name="image_3.css" crc="4251617359" ref="image_3"/>
+    <file name="iefonts_image_3.css" crc="239365655" ref="image_3"/>
+    <file name="p2-image_2.css" crc="4030190833" ref="p2-image_2"/>
+    <file name="iefonts_p2-image_2.css" crc="3991510553" ref="p2-image_2"/>
+    <file name="image_4.css" crc="522214695" ref="image_4"/>
+    <file name="iefonts_image_4.css" crc="4195910460" ref="image_4"/>
+    <file name="image_5.css" crc="4281234754" ref="image_5"/>
+    <file name="iefonts_image_5.css" crc="153912256" ref="image_5"/>
+    <file name="image_6.css" crc="21299408" ref="image_6"/>
+    <file name="iefonts_image_6.css" crc="3854556545" ref="image_6"/>
+    <file name="home-slider.css" crc="4182655968" ref="home-slider"/>
+    <file name="iefonts_home-slider.css" crc="100710888" ref="home-slider"/>
+    <file name="image_7.css" crc="257062069" ref="image_7"/>
+    <file name="iefonts_image_7.css" crc="305712311" ref="image_7"/>
+    <file name="home-video.css" crc="3852695841" ref="home-video"/>
+    <file name="iefonts_home-video.css" crc="172882434" ref="home-video"/>
+    <file name="index.css" crc="441638556" ref="index"/>
+    <file name="iefonts_index.css" crc="229977976" ref="index"/>
+    <file name="service.css" crc="308980424" ref="service"/>
+    <file name="iefonts_service.css" crc="3857054499" ref="service"/>
+    <file name="portfolio-1.css" crc="353135442" ref="portfolio-1"/>
+    <file name="iefonts_portfolio-1.css" crc="3948034034" ref="portfolio-1"/>
+    <file name="p2-image_6.css" crc="4172595622" ref="p2-image_6"/>
+    <file name="iefonts_p2-image_6.css" crc="60043067" ref="p2-image_6"/>
+    <file name="p2-image_5.css" crc="4132061175" ref="p2-image_5"/>
+    <file name="iefonts_p2-image_5.css" crc="4223374374" ref="p2-image_5"/>
+    <file name="p2-image-8.css" crc="535569572" ref="p2-image-8"/>
+    <file name="iefonts_p2-image-8.css" crc="306896608" ref="p2-image-8"/>
+    <file name="p2-image_7.css" crc="4291269264" ref="p2-image_7"/>
+    <file name="iefonts_p2-image_7.css" crc="4085110461" ref="p2-image_7"/>
+    <file name="portfolio-3.css" crc="4161468055" ref="portfolio-3"/>
+    <file name="iefonts_portfolio-3.css" crc="4103494461" ref="portfolio-3"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="museconfig.js" crc="380897831" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="webpro.js" crc="242022427" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>home-slider:tablet>portfolio-3:tablet>service:tablet>contact:tablet>about-us:contact:service:portfolio-3:home-slider:about-us"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>home-slider:tablet>portfolio-3:tablet>about-us:portfolio-3:home-slider:about-us"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>home-slider:tablet>portfolio-3:tablet>about-us:portfolio-3:home-slider:about-us"/>
+    <file name="touchswipe.js" crc="4066113679" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>home-slider:tablet>portfolio-3:tablet>about-us:portfolio-3:home-slider:about-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>service:phone>news:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>service:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:home-slider:home-video:about-us:index:about-me"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>portfolio-3:phone>service:phone>news:phone>contact:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="form_check.php" crc="147359589" ref="phone>service"/>
+    <file name="form_throttle.php" crc="93986428" ref="phone>service"/>
+    <file name="form_process.php" crc="3851993751" ref="phone>service"/>
+    <file name="form-u40104.php" crc="3796961859" ref="phone>service"/>
+    <file name="form-u40662.php" crc="89004478" ref="phone>contact"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="html5shiv.js" crc="4241844378" ref="tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:contact:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:portfolio-3:home-slider:home-video:about-us:index:about-me"/>
+    <file name="form-u37495.php" crc="269628409" ref="tablet>service"/>
+    <file name="form-u38090.php" crc="4045383306" ref="tablet>contact"/>
+    <file name="form-u17221.php" crc="4278470757" ref="contact"/>
+    <file name="form-u28582.php" crc="4044301038" ref="service"/>
   </folder>
   <folder name="images">
-    <file name="u261-4.png" crc="4095365712" ref="index"/>
-    <file name="u262-4.png" crc="186529772" ref="index"/>
+    <file name="image_3-u43527-fr.jpg" crc="3946361330" ref="phone>index:phone>portfolio-2"/>
+    <file name="image_3-u43527-fr_2x.jpg" crc="3820535148" ref="phone>index:phone>portfolio-2"/>
+    <file name="rollover-u43537-fr.png" crc="142848116" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>service:phone>news:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>service:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:home-slider:home-video:about-us:index:about-me"/>
+    <file name="rollover-u43537-fr_2x.png" crc="117693642" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>image_4:phone>image_5:phone>image_6:phone>image_7:phone>image_8:phone>image_9:phone>portfolio-2:phone>p2_image_1:phone>service:phone>news:phone>p2_image_2:phone>p2_image_3:phone>p2_image_4:phone>p2_image_6:phone>p2_image_5:phone>p2_image_7:phone>p2_image_8:phone>about-two:phone>about-me:tablet>index:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>image_1:tablet>portfolio-2:tablet>service:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9:tablet>p2_image_1:tablet>p2_image_2:tablet>p2_image_6:tablet>p2_image_5:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>about-us:tablet>about-me:image_1:service:portfolio-1:image_2:image_3:image_4:image_5:image_6:image_7:image_8:image_9:portfolio-2:p2-image_1:p2-image_2:p2-image_6:p2-image_5:p2-image_4:p2-image_3:p2-image-8:p2-image_7:home-slider:home-video:about-us:index:about-me"/>
+    <file name="image_1-u43526-fr.jpg" crc="527961665" ref="phone>index:phone>portfolio-2"/>
+    <file name="image_1-u43526-fr_2x.jpg" crc="277966432" ref="phone>index:phone>portfolio-2"/>
+    <file name="image_10.jpg" crc="3876896521" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-2:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>portfolio-2:portfolio-1:portfolio-2:home-slider:home-video">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_10_2x.jpg" crc="4275073140" ref="phone>index:phone>home-slider:phone>home-video:phone>portfolio-2:tablet>home-slider:tablet>home-video:tablet>portfolio-1:tablet>portfolio-2:portfolio-1:portfolio-2:home-slider:home-video">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider_1-crop-u39073.jpg" crc="4243503423" seo="true" ref="phone>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_1-crop-u39073_2x.jpg" crc="4237738560" seo="true" ref="phone>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>home-slider:phone>portfolio-3:tablet>home-slider:tablet>portfolio-3:portfolio-3:home-slider"/>
+    <file name="photo-1421757295538-9c80958e75b0360x240.jpg" crc="28458180" seo="true" ref="phone>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="photo-1421757295538-9c80958e75b0360x240_2x.jpg" crc="4109205914" seo="true" ref="phone>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_2-crop-u39071.jpg" crc="3814599253" seo="true" ref="phone>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_2-crop-u39071_2x.jpg" crc="226151578" seo="true" ref="phone>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>home-slider:phone>portfolio-3:tablet>home-slider:tablet>portfolio-3:portfolio-3:home-slider"/>
+    <file name="image_4-u39065-fr.jpg" crc="3968854532" ref="phone>home-slider:phone>home-video:tablet>home-slider:tablet>home-video:home-slider:home-video"/>
+    <file name="image_4-u39065-fr_2x.jpg" crc="4017995733" ref="phone>home-slider:phone>home-video:tablet>home-slider:tablet>home-video:home-slider:home-video"/>
+    <file name="image_1-u39067-fr.jpg" crc="3837843017" ref="phone>home-slider:tablet>home-slider:home-slider:home-video"/>
+    <file name="image_1-u39067-fr_2x.jpg" crc="367624988" ref="phone>home-slider:tablet>home-slider:home-slider:home-video"/>
+    <file name="arrow.svg" crc="215179417" ref="phone>home-slider:phone>home-video:tablet>home-slider:tablet>home-video:home-slider:home-video"/>
+    <file name="arrow_poster_u28303.png" crc="341711183" ref="phone>home-slider:phone>home-video:tablet>home-slider:tablet>home-video:home-slider:home-video"/>
+    <file name="image_3-u39136-fr.jpg" crc="94249490" ref="phone>home-video:tablet>home-video:home-video"/>
+    <file name="image_3-u39136-fr_2x.jpg" crc="39582025" ref="phone>home-video:tablet>home-video:home-video"/>
+    <file name="news_4-u39158-fr.jpg" crc="3766992960" ref="phone>home-video"/>
+    <file name="news_4-u39158-fr_2x.jpg" crc="4219750080" ref="phone>home-video"/>
+    <file name="image_3-u39181-fr.jpg" crc="4199052827" ref="phone>portfolio-1"/>
+    <file name="image_3-u39181-fr_2x.jpg" crc="508878420" ref="phone>portfolio-1"/>
+    <file name="image_7-u39175-fr.jpg" crc="3966454296" ref="phone>portfolio-1"/>
+    <file name="image_7-u39175-fr_2x.jpg" crc="4136743618" ref="phone>portfolio-1"/>
+    <file name="image_4-u39179-fr.jpg" crc="35483704" ref="phone>portfolio-1"/>
+    <file name="image_4-u39179-fr_2x.jpg" crc="91101762" ref="phone>portfolio-1"/>
+    <file name="image_5-u39174-fr.jpg" crc="3987602848" ref="phone>portfolio-1"/>
+    <file name="image_5-u39174-fr_2x.jpg" crc="56993685" ref="phone>portfolio-1"/>
+    <file name="image_6-u39177-fr.jpg" crc="3650406" ref="phone>portfolio-1"/>
+    <file name="image_6-u39177-fr_2x.jpg" crc="488047820" ref="phone>portfolio-1"/>
+    <file name="image_1-u39178-fr.jpg" crc="168294180" ref="phone>portfolio-1"/>
+    <file name="image_1-u39178-fr_2x.jpg" crc="3862805779" ref="phone>portfolio-1"/>
+    <file name="image_2-u39173-fr.jpg" crc="3779636934" ref="phone>portfolio-1"/>
+    <file name="image_2-u39173-fr_2x.jpg" crc="4060784262" ref="phone>portfolio-1"/>
+    <file name="image_10-u39176-fr.jpg" crc="315120335" ref="phone>portfolio-1"/>
+    <file name="image_10-u39176-fr_2x.jpg" crc="3839143552" ref="phone>portfolio-1"/>
+    <file name="image_8-u39180-fr.jpg" crc="125080947" ref="phone>portfolio-1"/>
+    <file name="image_8-u39180-fr_2x.jpg" crc="3921289528" ref="phone>portfolio-1"/>
+    <file name="image_3-u39226-fr.jpg" crc="3798637740" ref="phone>image_1:phone>p2_image_1"/>
+    <file name="image_3-u39226-fr_2x.jpg" crc="4097503298" ref="phone>image_1:phone>p2_image_1"/>
+    <file name="image_1-u39251-fr.jpg" crc="318442846" ref="phone>image_2:phone>p2_image_2"/>
+    <file name="image_1-u39251-fr_2x.jpg" crc="3879950236" ref="phone>image_2:phone>p2_image_2"/>
+    <file name="image_7-u39272-fr.jpg" crc="3980195117" ref="phone>image_3:phone>p2_image_6"/>
+    <file name="image_7-u39272-fr_2x.jpg" crc="3773130604" ref="phone>image_3:phone>p2_image_6"/>
+    <file name="image_2-u39293-fr.jpg" crc="4193076993" ref="phone>image_4:phone>p2_image_5"/>
+    <file name="image_2-u39293-fr_2x.jpg" crc="4225584439" ref="phone>image_4:phone>p2_image_5"/>
+    <file name="image_4-u39314-fr.jpg" crc="4042800470" ref="phone>image_5:phone>p2_image_4"/>
+    <file name="image_4-u39314-fr_2x.jpg" crc="96404806" ref="phone>image_5:phone>p2_image_4"/>
+    <file name="image_9-u39335-fr.jpg" crc="23610854" ref="phone>image_6:phone>p2_image_3"/>
+    <file name="image_9-u39335-fr_2x.jpg" crc="360012850" ref="phone>image_6:phone>p2_image_3"/>
+    <file name="image_5-u39356-fr.jpg" crc="42693700" ref="phone>image_7"/>
+    <file name="image_5-u39356-fr_2x.jpg" crc="4010722667" ref="phone>image_7"/>
+    <file name="image_8-u39377-fr.jpg" crc="156105615" ref="phone>image_8:phone>p2_image_8"/>
+    <file name="image_8-u39377-fr_2x.jpg" crc="3928323770" ref="phone>image_8:phone>p2_image_8"/>
+    <file name="image_6-u39398-fr.jpg" crc="4247402404" ref="phone>image_9:phone>p2_image_7"/>
+    <file name="image_6-u39398-fr_2x.jpg" crc="4078801521" ref="phone>image_9:phone>p2_image_7"/>
+    <file name="image_4-u39453-fr.jpg" crc="136816369" ref="phone>portfolio-2"/>
+    <file name="image_4-u39453-fr_2x.jpg" crc="3825800019" ref="phone>portfolio-2"/>
+    <file name="image_2-u39448-fr.jpg" crc="4035258461" ref="phone>portfolio-2"/>
+    <file name="image_2-u39448-fr_2x.jpg" crc="4002371090" ref="phone>portfolio-2"/>
+    <file name="image_7-u39449-fr.jpg" crc="4021003351" ref="phone>portfolio-2"/>
+    <file name="image_7-u39449-fr_2x.jpg" crc="4114904069" ref="phone>portfolio-2"/>
+    <file name="image_6-u39451-fr.jpg" crc="4020183337" ref="phone>portfolio-2"/>
+    <file name="image_6-u39451-fr_2x.jpg" crc="88427967" ref="phone>portfolio-2"/>
+    <file name="image_8-u39454-fr.jpg" crc="434527850" ref="phone>portfolio-2"/>
+    <file name="image_8-u39454-fr_2x.jpg" crc="3883104365" ref="phone>portfolio-2"/>
+    <file name="image_1300x251.jpg" crc="4164018029" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1300x251_2x.jpg" crc="184309907" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9334x250.jpg" crc="4102319305" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9334x250_2x.jpg" crc="3770180106" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7326x251.jpg" crc="4225978702" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7326x251_2x.jpg" crc="4177302344" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u39965.jpg" crc="3801784379" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u39965_2x.jpg" crc="4217371257" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8300x300.jpg" crc="3949091905" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8300x300_2x.jpg" crc="4264903952" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5357x253.jpg" crc="439042299" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5357x253_2x.jpg" crc="356970627" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4298x251.jpg" crc="151336095" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4298x251_2x.jpg" crc="157324667" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3300x274.jpg" crc="4062436428" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3300x274_2x.jpg" crc="4234001613" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u39967.jpg" crc="288808721" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u39967_2x.jpg" crc="4213209147" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1335x280.jpg" crc="365409995" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1335x280_2x.jpg" crc="523175045" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9339x254.jpg" crc="493059884" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9339x254_2x.jpg" crc="4038567977" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7336x259.jpg" crc="3866489363" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7336x259_2x.jpg" crc="109213227" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6369x246.jpg" crc="133704786" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6369x246_2x.jpg" crc="149340281" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u39936.jpg" crc="4160665454" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u39936_2x.jpg" crc="3925583181" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5349x247.jpg" crc="42693700" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5349x247_2x.jpg" crc="4010722667" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4336x283.jpg" crc="10429368" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4336x283_2x.jpg" crc="3932925241" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u39948.jpg" crc="4200690362" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u39948_2x.jpg" crc="117276253" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2370x247.jpg" crc="4193076993" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2370x247_2x.jpg" crc="4250602880" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u39892.jpg" crc="3801784379" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u39892_2x.jpg" crc="4217371257" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u39896.jpg" crc="288808721" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u39896_2x.jpg" crc="4213209147" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u39921.jpg" crc="4160665454" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u39921_2x.jpg" crc="3925583181" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u39919.jpg" crc="4200690362" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u39919_2x.jpg" crc="117276253" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u39853.jpg" crc="3801784379" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u39853_2x.jpg" crc="4217371257" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u39859.jpg" crc="288808721" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u39859_2x.jpg" crc="4213209147" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u39827.jpg" crc="4160665454" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u39827_2x.jpg" crc="3925583181" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u39831.jpg" crc="4200690362" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u39831_2x.jpg" crc="117276253" seo="true" ref="phone>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="startup-593331_1920.jpg" crc="3850060416" ref="phone>service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="startup-593331_1920_2x.jpg" crc="304550509" ref="phone>service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="write-593333_1920.jpg" crc="4235682976" ref="phone>news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="write-593333_1920_2x.jpg" crc="4129315327" ref="phone>news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="image_rollover_-u40432-fr.png" crc="4244873924" ref="phone>news"/>
+    <file name="image_rollover_-u40432-fr_2x.png" crc="4156552878" ref="phone>news"/>
+    <file name="image_rollover_-u40432-r-fr.png" crc="3978212445" ref="phone>news"/>
+    <file name="image_rollover_-u40432-r-fr_2x.png" crc="4005234641" ref="phone>news"/>
+    <file name="image_rollover_press-u40432-m-fr.png" crc="4023918511" ref="phone>news"/>
+    <file name="image_rollover_press-u40432-m-fr_2x.png" crc="105761353" ref="phone>news"/>
+    <file name="arrow_black.svg" crc="128223397" ref="phone>news"/>
+    <file name="arrow_black_poster_u28311.png" crc="4159343634" ref="phone>news"/>
+    <file name="photo-1421757295538-9c80958e75b0-u40355-fr.jpg" crc="4259550427" ref="phone>news"/>
+    <file name="photo-1421757295538-9c80958e75b0-u40355-fr_2x.jpg" crc="3965789205" ref="phone>news"/>
+    <file name="startup-593341_1920.jpg" crc="3907807703" ref="phone>news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="startup-593341_1920_2x.jpg" crc="151599127" ref="phone>news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="photo-1421809313281-48f03fa45e9f-u40397-fr.jpg" crc="290804321" ref="phone>news"/>
+    <file name="photo-1421809313281-48f03fa45e9f-u40397-fr_2x.jpg" crc="3800495047" ref="phone>news"/>
+    <file name="photodune-6512967-young-bearded-hipster-student-using-computer-outdoors-m.jpg" crc="3930761940" ref="phone>about-two:tablet>about-us:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="photodune-6512967-young-bearded-hipster-student-using-computer-outdoors-m_2x.jpg" crc="23643298" ref="phone>about-two:tablet>about-us:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="photodune-8074762-young-hipster-girl-with-black-bike-m.jpg" crc="4009944349" ref="phone>about-two:tablet>about-us:about-us">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="photodune-8074762-young-hipster-girl-with-black-bike-m_2x.jpg" crc="251888202" ref="phone>about-two:tablet>about-us:about-us">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="team_3.jpg" crc="118985038" ref="phone>about-two:tablet>about-us:about-us">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="ljizlzhgq7wpsh5kvtcb_typewriter-u42198-fr.png" crc="256179251" ref="phone>about-two"/>
+    <file name="ljizlzhgq7wpsh5kvtcb_typewriter-u42198-fr_2x.png" crc="10220813" ref="phone>about-two"/>
+    <file name="logo_3.png" crc="3805189844" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="logo_3_2x.png" crc="438702751" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="logo_1-u42187-fr.png" crc="102801387" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me"/>
+    <file name="logo_1-u42187-fr_2x.png" crc="520607739" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me"/>
+    <file name="logo_6.png" crc="4126261837" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="logo_6_2x.png" crc="4193514031" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="logo_5.png" crc="4120574597" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="logo_5_2x.png" crc="405245239" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="logo_4.png" crc="259465864" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="logo_4_2x.png" crc="284230109" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me">
+      <caption webpage="about-two" alt=""/>
+    </file>
+    <file name="logo_2-u42182-fr.png" crc="3775910317" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me"/>
+    <file name="logo_2-u42182-fr_2x.png" crc="81337147" ref="phone>about-two:phone>about-me:tablet>about-us:tablet>about-me:about-us:about-me"/>
+    <file name="photodune-6512967-young-bearded-hipster-student-using-computer-outdoors-m-u42726-fr.jpg" crc="3827160298" ref="phone>about-me"/>
+    <file name="photodune-6512967-young-bearded-hipster-student-using-computer-outdoors-m-u42726-fr_2x.jpg" crc="481431044" ref="phone>about-me"/>
+    <file name="image_3-u43505-fr.jpg" crc="434002129" ref="tablet>index:tablet>portfolio-1"/>
+    <file name="image_3-u43505-fr_2x.jpg" crc="4204218678" ref="tablet>index:tablet>portfolio-1"/>
+    <file name="image_7-u43503-fr.jpg" crc="3817334604" ref="tablet>index:tablet>portfolio-1"/>
+    <file name="image_7-u43503-fr_2x.jpg" crc="353097973" ref="tablet>index:tablet>portfolio-1"/>
+    <file name="image_1.jpg" crc="404751624" ref="tablet>index:tablet>portfolio-1:image_2:p2-image_2">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="image_1_2x.jpg" crc="3825747571" ref="tablet>index:tablet>portfolio-1:image_2:p2-image_2">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider_1-crop-u35982.jpg" crc="4197553360" seo="true" ref="tablet>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_1-crop-u35982_2x.jpg" crc="504333024" seo="true" ref="tablet>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="photo-1421757295538-9c80958e75b0728x484.jpg" crc="126336424" seo="true" ref="tablet>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="photo-1421757295538-9c80958e75b0728x484_2x.jpg" crc="344469553" seo="true" ref="tablet>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_2-crop-u35986.jpg" crc="4155875548" seo="true" ref="tablet>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_2-crop-u35986_2x.jpg" crc="138656314" seo="true" ref="tablet>home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="news_4-u36057-fr.jpg" crc="3841423819" ref="tablet>home-video"/>
+    <file name="news_4-u36057-fr_2x.jpg" crc="4265510698" ref="tablet>home-video"/>
+    <file name="image_4.jpg" crc="282997873" ref="tablet>portfolio-1:image_5:p2-image_4">
+      <caption webpage="portfolio-1" alt=""/>
+    </file>
+    <file name="image_4_2x.jpg" crc="4028247825" ref="tablet>portfolio-1:image_5:p2-image_4">
+      <caption webpage="portfolio-1" alt=""/>
+    </file>
+    <file name="image_5-u36060-fr.jpg" crc="526928465" ref="tablet>portfolio-1"/>
+    <file name="image_5-u36060-fr_2x.jpg" crc="3954407862" ref="tablet>portfolio-1"/>
+    <file name="image_6-u36063-fr.jpg" crc="430432470" ref="tablet>portfolio-1"/>
+    <file name="image_6-u36063-fr_2x.jpg" crc="4200582039" ref="tablet>portfolio-1"/>
+    <file name="image_2-u36059-fr.jpg" crc="3949183932" ref="tablet>portfolio-1"/>
+    <file name="image_2-u36059-fr_2x.jpg" crc="4264405632" ref="tablet>portfolio-1"/>
+    <file name="image_8-u36066-fr.jpg" crc="3782516437" ref="tablet>portfolio-1"/>
+    <file name="image_8-u36066-fr_2x.jpg" crc="3842913640" ref="tablet>portfolio-1"/>
+    <file name="image_3-u36112-fr.jpg" crc="451727625" ref="tablet>image_1:tablet>p2_image_1"/>
+    <file name="image_3-u36112-fr_2x.jpg" crc="3974801811" ref="tablet>image_1:tablet>p2_image_1"/>
+    <file name="image_3-u36831-fr.jpg" crc="4280482466" ref="tablet>portfolio-2:portfolio-2"/>
+    <file name="image_3-u36831-fr_2x.jpg" crc="170202762" ref="tablet>portfolio-2:portfolio-2"/>
+    <file name="image_1-u36828-fr.jpg" crc="180107125" ref="tablet>portfolio-2"/>
+    <file name="image_1-u36828-fr_2x.jpg" crc="152521646" ref="tablet>portfolio-2"/>
+    <file name="image_4-u36829-fr.jpg" crc="167721230" ref="tablet>portfolio-2"/>
+    <file name="image_4-u36829-fr_2x.jpg" crc="4013661475" ref="tablet>portfolio-2"/>
+    <file name="image_2.jpg" crc="64699986" ref="tablet>portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="image_2_2x.jpg" crc="4176422348" ref="tablet>portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="image_7-u36825-fr.jpg" crc="3773137602" ref="tablet>portfolio-2:portfolio-2"/>
+    <file name="image_7-u36825-fr_2x.jpg" crc="9583778" ref="tablet>portfolio-2:portfolio-2"/>
+    <file name="image_6-u36827-fr.jpg" crc="525606510" ref="tablet>portfolio-2:portfolio-2"/>
+    <file name="image_6-u36827-fr_2x.jpg" crc="534927629" ref="tablet>portfolio-2:portfolio-2"/>
+    <file name="image_8-u36830-fr.jpg" crc="3914650443" ref="tablet>portfolio-2"/>
+    <file name="image_8-u36830-fr_2x.jpg" crc="523106736" ref="tablet>portfolio-2"/>
+    <file name="image_1-crop-u37218.jpg" crc="217448335" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1-crop-u37218_2x.jpg" crc="329874712" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u37212.jpg" crc="3760724020" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u37212_2x.jpg" crc="326788333" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4-crop-u37222.jpg" crc="4229362176" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4-crop-u37222_2x.jpg" crc="4193214659" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9-crop-u37224.jpg" crc="4016550885" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9-crop-u37224_2x.jpg" crc="3890768163" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37220.jpg" crc="4222842263" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37220_2x.jpg" crc="4059656172" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37214.jpg" crc="4232228526" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37214_2x.jpg" crc="342686892" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7-crop-u37208.jpg" crc="3941410951" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7-crop-u37208_2x.jpg" crc="4146125189" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5-crop-u37216.jpg" crc="4090260047" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5-crop-u37216_2x.jpg" crc="4273379753" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u37210.jpg" crc="180430597" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u37210_2x.jpg" crc="407159029" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1694x580.jpg" crc="39778134" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1694x580_2x.jpg" crc="4252154757" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9702x526.jpg" crc="3974043688" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9702x526_2x.jpg" crc="4200865454" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7695x536.jpg" crc="124513455" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7695x536_2x.jpg" crc="3803751184" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6764x510.jpg" crc="3781427597" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6764x510_2x.jpg" crc="3960680902" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37233.jpg" crc="500911805" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37233_2x.jpg" crc="3972558528" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5723x512.jpg" crc="201938366" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5723x512_2x.jpg" crc="3973956518" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4695x587.jpg" crc="4195186249" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4695x587_2x.jpg" crc="359090219" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37241.jpg" crc="3759311036" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37241_2x.jpg" crc="85328788" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2767x511.jpg" crc="3823242728" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2767x511_2x.jpg" crc="4030701477" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7-crop-u37287.jpg" crc="3941410951" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7-crop-u37287_2x.jpg" crc="4146125189" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37277.jpg" crc="4222842263" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37277_2x.jpg" crc="4059656172" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5-crop-u37281.jpg" crc="4090260047" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5-crop-u37281_2x.jpg" crc="4273379753" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4-crop-u37275.jpg" crc="4229362176" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4-crop-u37275_2x.jpg" crc="4193214659" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37283.jpg" crc="138258524" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37283_2x.jpg" crc="3985366750" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u37273.jpg" crc="180430597" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u37273_2x.jpg" crc="407159029" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1-crop-u37279.jpg" crc="217448335" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1-crop-u37279_2x.jpg" crc="329874712" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u37271.jpg" crc="3760724020" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u37271_2x.jpg" crc="326788333" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9-crop-u37285.jpg" crc="4016550885" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9-crop-u37285_2x.jpg" crc="3890768163" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1693x580.jpg" crc="39778134" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1693x580_2x.jpg" crc="363705545" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6765x510.jpg" crc="3781427597" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6765x510_2x.jpg" crc="42017481" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37308.jpg" crc="3866587333" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37308_2x.jpg" crc="419758506" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5724x512.jpg" crc="201938366" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5724x512_2x.jpg" crc="4195392239" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37306.jpg" crc="4014334734" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37306_2x.jpg" crc="85328788" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2767x512.jpg" crc="3988958111" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2767x512_2x.jpg" crc="3857593020" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9-crop-u37337.jpg" crc="4016550885" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9-crop-u37337_2x.jpg" crc="3890768163" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u37339.jpg" crc="3760724020" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6-crop-u37339_2x.jpg" crc="326788333" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1-crop-u37331.jpg" crc="217448335" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1-crop-u37331_2x.jpg" crc="329874712" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4-crop-u37329.jpg" crc="4229362176" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4-crop-u37329_2x.jpg" crc="4193214659" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37325.jpg" crc="4222842263" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37325_2x.jpg" crc="4059656172" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7-crop-u37323.jpg" crc="3941410951" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7-crop-u37323_2x.jpg" crc="4146125189" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37333.jpg" crc="138258524" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37333_2x.jpg" crc="3985366750" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5-crop-u37327.jpg" crc="4090260047" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5-crop-u37327_2x.jpg" crc="4273379753" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u37335.jpg" crc="180430597" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2-crop-u37335_2x.jpg" crc="407159029" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37370.jpg" crc="3866587333" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u37370_2x.jpg" crc="419758506" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37358.jpg" crc="4014334734" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u37358_2x.jpg" crc="85328788" seo="true" ref="tablet>portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="startup-593331_19202.jpg" crc="304550509" ref="tablet>service:service">
+      <caption webpage="service" alt=""/>
+    </file>
+    <file name="image_1-u36472-fr.jpg" crc="3956792407" ref="tablet>image_2:tablet>p2_image_2"/>
+    <file name="image_1-u36472-fr_2x.jpg" crc="21896057" ref="tablet>image_2:tablet>p2_image_2"/>
+    <file name="image_7-u36515-fr.jpg" crc="217915369" ref="tablet>image_3:tablet>p2_image_6"/>
+    <file name="image_7-u36515-fr_2x.jpg" crc="3927403945" ref="tablet>image_3:tablet>p2_image_6"/>
+    <file name="image_2-u36564-fr.jpg" crc="4223081804" ref="tablet>image_4:tablet>p2_image_5"/>
+    <file name="image_2-u36564-fr_2x.jpg" crc="4219210397" ref="tablet>image_4:tablet>p2_image_5"/>
+    <file name="image_4-u36613-fr.jpg" crc="4027436733" ref="tablet>image_5:tablet>p2_image_4"/>
+    <file name="image_4-u36613-fr_2x.jpg" crc="4139991638" ref="tablet>image_5:tablet>p2_image_4"/>
+    <file name="image_9-u36663-fr.jpg" crc="4228480880" ref="tablet>image_6:tablet>p2_image_3"/>
+    <file name="image_9-u36663-fr_2x.jpg" crc="436307473" ref="tablet>image_6:tablet>p2_image_3"/>
+    <file name="image_5-u36712-fr.jpg" crc="5626794" ref="tablet>image_7"/>
+    <file name="image_5-u36712-fr_2x.jpg" crc="3795127907" ref="tablet>image_7"/>
+    <file name="image_8-u36762-fr.jpg" crc="4147531127" ref="tablet>image_8:tablet>p2_image_8"/>
+    <file name="image_8-u36762-fr_2x.jpg" crc="219386458" ref="tablet>image_8:tablet>p2_image_8"/>
+    <file name="image_6-u36811-fr.jpg" crc="416199829" ref="tablet>image_9:tablet>p2_image_7"/>
+    <file name="image_6-u36811-fr_2x.jpg" crc="4174863188" ref="tablet>image_9:tablet>p2_image_7"/>
+    <file name="ljizlzhgq7wpsh5kvtcb_typewriter-u41500-fr.png" crc="4165599790" ref="tablet>about-us:about-us"/>
+    <file name="photodune-6512967-young-bearded-hipster-student-using-computer-outdoors-m-u42061-fr.jpg" crc="3797508556" ref="tablet>about-me"/>
+    <file name="photodune-6512967-young-bearded-hipster-student-using-computer-outdoors-m-u42061-fr_2x.jpg" crc="335538880" ref="tablet>about-me"/>
+    <file name="image_3.jpg" crc="250826367" ref="image_1:p2-image_1">
+      <caption webpage="image_1" alt=""/>
+    </file>
+    <file name="image_3_2x.jpg" crc="4227941514" ref="image_1:p2-image_1">
+      <caption webpage="image_1" alt=""/>
+    </file>
+    <file name="image_3-u29216-fr.jpg" crc="416009515" ref="portfolio-1:index"/>
+    <file name="image_3-u29216-fr_2x.jpg" crc="72201941" ref="portfolio-1:index"/>
+    <file name="image_2-u29208-fr.jpg" crc="62706510" ref="portfolio-1"/>
+    <file name="image_2-u29208-fr_2x.jpg" crc="3919370192" ref="portfolio-1"/>
+    <file name="image_5-u29209-fr.jpg" crc="347341191" ref="portfolio-1"/>
+    <file name="image_5-u29209-fr_2x.jpg" crc="82447263" ref="portfolio-1"/>
+    <file name="image_1-u29213-fr.jpg" crc="4226673024" ref="portfolio-1"/>
+    <file name="image_1-u29213-fr_2x.jpg" crc="3910151627" ref="portfolio-1"/>
+    <file name="image_4-u29214-fr.jpg" crc="3926127090" ref="portfolio-1:index"/>
+    <file name="image_4-u29214-fr_2x.jpg" crc="443183757" ref="portfolio-1:index"/>
+    <file name="image_8-u29215-fr.jpg" crc="164560729" ref="portfolio-1:index"/>
+    <file name="image_8-u29215-fr_2x.jpg" crc="3968869910" ref="portfolio-1:index"/>
+    <file name="image_7-u29210-fr.jpg" crc="3929788140" ref="portfolio-1:index"/>
+    <file name="image_7-u29210-fr_2x.jpg" crc="353702078" ref="portfolio-1:index"/>
+    <file name="image_6-u29212-fr.jpg" crc="3853233364" ref="portfolio-1"/>
+    <file name="image_6-u29212-fr_2x.jpg" crc="4101155022" ref="portfolio-1"/>
+    <file name="image_7.jpg" crc="225531789" ref="image_3:p2-image_6">
+      <caption webpage="image_3" alt=""/>
+    </file>
+    <file name="image_7_2x.jpg" crc="176056371" ref="image_3:p2-image_6">
+      <caption webpage="image_3" alt=""/>
+    </file>
+    <file name="image_22.jpg" crc="4176422348" ref="image_4:portfolio-2:p2-image_5:index">
+      <caption webpage="image_4" alt=""/>
+    </file>
+    <file name="image_9.jpg" crc="297340999" ref="image_6:p2-image_3">
+      <caption webpage="image_6" alt=""/>
+    </file>
+    <file name="image_9_2x.jpg" crc="320036439" ref="image_6:p2-image_3">
+      <caption webpage="image_6" alt=""/>
+    </file>
+    <file name="image_5.jpg" crc="4241617199" ref="image_7">
+      <caption webpage="image_7" alt=""/>
+    </file>
+    <file name="image_5_2x.jpg" crc="4275654470" ref="image_7">
+      <caption webpage="image_7" alt=""/>
+    </file>
+    <file name="image_8.jpg" crc="3974121053" ref="image_8:p2-image-8">
+      <caption webpage="image_8" alt=""/>
+    </file>
+    <file name="image_8_2x.jpg" crc="4284547891" ref="image_8:p2-image-8">
+      <caption webpage="image_8" alt=""/>
+    </file>
+    <file name="image_6.jpg" crc="124800254" ref="image_9:p2-image_7">
+      <caption webpage="image_9" alt=""/>
+    </file>
+    <file name="image_6_2x.jpg" crc="3877262355" ref="image_9:p2-image_7">
+      <caption webpage="image_9" alt=""/>
+    </file>
+    <file name="image_12.jpg" crc="3825747571" ref="portfolio-2:index">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="image_82.jpg" crc="4284547891" ref="portfolio-2">
+      <caption webpage="portfolio-2" alt=""/>
+    </file>
+    <file name="image_1362x303.jpg" crc="10499598" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1362x303_2x.jpg" crc="251781843" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6402x268.jpg" crc="4181796161" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6402x268_2x.jpg" crc="143130032" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4359x303.jpg" crc="48582727" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4359x303_2x.jpg" crc="452794855" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9362x272.jpg" crc="3823873144" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9362x272_2x.jpg" crc="3777960864" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u33439.jpg" crc="4017237374" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u33439_2x.jpg" crc="334804089" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3362x331.jpg" crc="455118126" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3362x331_2x.jpg" crc="370662179" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7363x280.jpg" crc="3764526489" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7363x280_2x.jpg" crc="56699641" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5379x268.jpg" crc="242841987" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5379x268_2x.jpg" crc="3973028667" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2402x268.jpg" crc="3821007624" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2402x268_2x.jpg" crc="320799543" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1778x651.jpg" crc="3999992238" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_1778x651_2x.jpg" crc="3838019350" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9788x591.jpg" crc="3878678308" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_9788x591_2x.jpg" crc="177938401" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7780x602.jpg" crc="4263298387" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_7780x602_2x.jpg" crc="4244885188" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6890x593.jpg" crc="289654886" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_6890x593_2x.jpg" crc="3822625849" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u33483.jpg" crc="4112706680" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u33483_2x.jpg" crc="3906964339" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5842x596.jpg" crc="528129858" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_5842x596_2x.jpg" crc="3888613382" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4780x659.jpg" crc="3777661889" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_4780x659_2x.jpg" crc="138656093" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u33471.jpg" crc="210221051" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u33471_2x.jpg" crc="3790595588" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2893x595.jpg" crc="307475857" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_2893x595_2x.jpg" crc="4192148414" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u34180.jpg" crc="4017237374" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u34180_2x.jpg" crc="334804089" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u34149.jpg" crc="4112706680" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u34149_2x.jpg" crc="3906964339" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u34157.jpg" crc="210221051" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u34157_2x.jpg" crc="4046373144" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u34254.jpg" crc="4017237374" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u34254_2x.jpg" crc="334804089" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u34223.jpg" crc="4112706680" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_8-crop-u34223_2x.jpg" crc="3906964339" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u34231.jpg" crc="210221051" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="image_3-crop-u34231_2x.jpg" crc="4046373144" seo="true" ref="portfolio-3">
+      <caption webpage="portfolio-3" alt=""/>
+    </file>
+    <file name="slider_1-crop-u33787.jpg" crc="87708856" seo="true" ref="home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_1-crop-u33787_2x.jpg" crc="3938982722" seo="true" ref="home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="photo-1421757295538-9c80958e75b0-crop-u33789.jpg" crc="4150991014" seo="true" ref="home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="photo-1421757295538-9c80958e75b0-crop-u33789_2x.jpg" crc="324515693" seo="true" ref="home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_2-crop-u33791.jpg" crc="409878619" seo="true" ref="home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="slider_2-crop-u33791_2x.jpg" crc="59480843" seo="true" ref="home-slider">
+      <caption webpage="home-slider" alt=""/>
+    </file>
+    <file name="news_4.jpg" crc="73692776" ref="home-video">
+      <caption webpage="home-video" alt=""/>
+    </file>
+    <file name="news_4_2x.jpg" crc="4289667841" ref="home-video">
+      <caption webpage="home-video" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4194840157" seo="true" mt="1558037196837" redirect="true"/>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4056464167" ref="tablet>p2_image_1:tablet>p2_image_2:tablet>portfolio-2:tablet>portfolio-3:tablet>service:tablet>contact:tablet>about-us:tablet>p2_image_6:tablet>index:tablet>p2_image_5:tablet>home-slider:tablet>p2_image_4:tablet>p2_image_3:tablet>p2_image_8:tablet>p2_image_7:tablet>home-video:tablet>about-me:tablet>portfolio-1:tablet>image_1:tablet>image_2:tablet>image_3:tablet>image_4:tablet>image_5:tablet>image_6:tablet>image_7:tablet>image_8:tablet>image_9"/>
+      <file name="p2_image_1.css" crc="495297827" ref="tablet>p2_image_1"/>
+      <file name="iefonts_p2_image_1.css" crc="3838968265" ref="tablet>p2_image_1"/>
+      <file name="p2_image_2.css" crc="3935278751" ref="tablet>p2_image_2"/>
+      <file name="iefonts_p2_image_2.css" crc="312580234" ref="tablet>p2_image_2"/>
+      <file name="portfolio-2.css" crc="296952053" ref="tablet>portfolio-2"/>
+      <file name="iefonts_portfolio-2.css" crc="3866720739" ref="tablet>portfolio-2"/>
+      <file name="portfolio-3.css" crc="68175242" ref="tablet>portfolio-3"/>
+      <file name="iefonts_portfolio-3.css" crc="3908388739" ref="tablet>portfolio-3"/>
+      <file name="service.css" crc="473010438" ref="tablet>service"/>
+      <file name="iefonts_service.css" crc="446744434" ref="tablet>service"/>
+      <file name="contact.css" crc="4212343012" ref="tablet>contact"/>
+      <file name="iefonts_contact.css" crc="3918426939" ref="tablet>contact"/>
+      <file name="about-us.css" crc="362359806" ref="tablet>about-us"/>
+      <file name="iefonts_about-us.css" crc="3918376879" ref="tablet>about-us"/>
+      <file name="p2_image_6.css" crc="3967933679" ref="tablet>p2_image_6"/>
+      <file name="iefonts_p2_image_6.css" crc="3820030323" ref="tablet>p2_image_6"/>
+      <file name="index.css" crc="42792007" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="4070118772" ref="tablet>index"/>
+      <file name="p2_image_5.css" crc="28935090" ref="tablet>p2_image_5"/>
+      <file name="iefonts_p2_image_5.css" crc="3936351726" ref="tablet>p2_image_5"/>
+      <file name="home-slider.css" crc="3816111973" ref="tablet>home-slider"/>
+      <file name="iefonts_home-slider.css" crc="148952464" ref="tablet>home-slider"/>
+      <file name="p2_image_4.css" crc="48486406" ref="tablet>p2_image_4"/>
+      <file name="iefonts_p2_image_4.css" crc="4248750176" ref="tablet>p2_image_4"/>
+      <file name="p2_image_3.css" crc="321586002" ref="tablet>p2_image_3"/>
+      <file name="iefonts_p2_image_3.css" crc="3769641296" ref="tablet>p2_image_3"/>
+      <file name="p2_image_8.css" crc="530907096" ref="tablet>p2_image_8"/>
+      <file name="iefonts_p2_image_8.css" crc="131837345" ref="tablet>p2_image_8"/>
+      <file name="p2_image_7.css" crc="42098296" ref="tablet>p2_image_7"/>
+      <file name="iefonts_p2_image_7.css" crc="4025349974" ref="tablet>p2_image_7"/>
+      <file name="home-video.css" crc="4261969240" ref="tablet>home-video"/>
+      <file name="iefonts_home-video.css" crc="3975369216" ref="tablet>home-video"/>
+      <file name="about-me.css" crc="3986506042" ref="tablet>about-me"/>
+      <file name="iefonts_about-me.css" crc="3788390631" ref="tablet>about-me"/>
+      <file name="portfolio-1.css" crc="3965976454" ref="tablet>portfolio-1"/>
+      <file name="iefonts_portfolio-1.css" crc="4294921243" ref="tablet>portfolio-1"/>
+      <file name="image_1.css" crc="3884730064" ref="tablet>image_1"/>
+      <file name="iefonts_image_1.css" crc="348505825" ref="tablet>image_1"/>
+      <file name="image_2.css" crc="3790617536" ref="tablet>image_2"/>
+      <file name="iefonts_image_2.css" crc="263831214" ref="tablet>image_2"/>
+      <file name="image_3.css" crc="50534388" ref="tablet>image_3"/>
+      <file name="iefonts_image_3.css" crc="297613860" ref="tablet>image_3"/>
+      <file name="image_4.css" crc="4004168718" ref="tablet>image_4"/>
+      <file name="iefonts_image_4.css" crc="4196230289" ref="tablet>image_4"/>
+      <file name="image_5.css" crc="401508079" ref="tablet>image_5"/>
+      <file name="iefonts_image_5.css" crc="3861137074" ref="tablet>image_5"/>
+      <file name="image_6.css" crc="3996999238" ref="tablet>image_6"/>
+      <file name="iefonts_image_6.css" crc="192121453" ref="tablet>image_6"/>
+      <file name="image_7.css" crc="421270190" ref="tablet>image_7"/>
+      <file name="iefonts_image_7.css" crc="408838215" ref="tablet>image_7"/>
+      <file name="image_8.css" crc="508762243" ref="tablet>image_8"/>
+      <file name="iefonts_image_8.css" crc="87426849" ref="tablet>image_8"/>
+      <file name="image_9.css" crc="73010818" ref="tablet>image_9"/>
+      <file name="iefonts_image_9.css" crc="3907217419" ref="tablet>image_9"/>
+    </folder>
+    <file name="index.html" crc="4213080224" seo="true" mt="1582385889890" redirect="true"/>
+    <file name="home-slider.html" crc="250360336" seo="true" mt="1582385889880" redirect="true"/>
+    <file name="home-video.html" crc="454229661" seo="true" mt="1582385925731" redirect="true"/>
+    <file name="portfolio-1.html" crc="142984923" seo="true" mt="1582385928694" redirect="true"/>
+    <file name="image_1.html" crc="206835942" seo="true" mt="1582385876052" redirect="true"/>
+    <file name="portfolio-2.html" crc="3974313630" seo="true" mt="1582385928693" redirect="true"/>
+    <file name="portfolio-3.html" crc="381519917" seo="true" mt="1582385889436" redirect="true"/>
+    <file name="service.html" crc="53481614" seo="true" mt="1434115716939" redirect="true"/>
+    <file name="contact.html" crc="49422440" seo="true" mt="1434115716939" redirect="true"/>
+    <file name="image_2.html" crc="142221080" seo="true" mt="1582385889893" redirect="true"/>
+    <file name="image_3.html" crc="3962097855" seo="true" mt="1582385877677" redirect="true"/>
+    <file name="image_4.html" crc="3839276975" seo="true" mt="1582385928703" redirect="true"/>
+    <file name="image_5.html" crc="4158454681" seo="true" mt="1582385886307" redirect="true"/>
+    <file name="image_6.html" crc="82922077" seo="true" mt="1582385879377" redirect="true"/>
+    <file name="image_7.html" crc="4014657094" seo="true" mt="1582385928463" redirect="true"/>
+    <file name="image_8.html" crc="4253955388" seo="true" mt="1582385881391" redirect="true"/>
+    <file name="image_9.html" crc="3945800663" seo="true" mt="1582385927995" redirect="true"/>
+    <file name="p2_image_1.html" crc="511104431" seo="true" mt="1582385876051" redirect="true"/>
+    <file name="p2_image_2.html" crc="4103394695" seo="true" mt="1582385889888" redirect="true"/>
+    <file name="p2_image_6.html" crc="361148294" seo="true" mt="1582385877687" redirect="true"/>
+    <file name="p2_image_5.html" crc="41179298" seo="true" mt="1582385928697" redirect="true"/>
+    <file name="p2_image_4.html" crc="142866977" seo="true" mt="1582385886303" redirect="true"/>
+    <file name="p2_image_3.html" crc="3891759682" seo="true" mt="1582385879376" redirect="true"/>
+    <file name="p2_image_8.html" crc="395121671" seo="true" mt="1582385881394" redirect="true"/>
+    <file name="p2_image_7.html" crc="14543737" seo="true" mt="1582385927993" redirect="true"/>
+    <file name="about-us.html" crc="3962434089" seo="true" mt="1582385929077" redirect="true"/>
+    <file name="about-me.html" crc="154276847" seo="true" mt="1582385929073" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3992892825" ref="phone>p2_image_2:phone>p2_image_3:phone>p2_image_8:phone>p2_image_4:phone>news:phone>about-me:phone>about-two:phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>portfolio-2:phone>image_4:phone>portfolio-3:phone>image_5:phone>service:phone>image_6:phone>contact:phone>image_7:phone>p2_image_6:phone>image_8:phone>p2_image_5:phone>image_9:phone>p2_image_7:phone>p2_image_1"/>
+      <file name="p2_image_2.css" crc="199838153" ref="phone>p2_image_2"/>
+      <file name="iefonts_p2_image_2.css" crc="4249319788" ref="phone>p2_image_2"/>
+      <file name="p2_image_3.css" crc="49186918" ref="phone>p2_image_3"/>
+      <file name="iefonts_p2_image_3.css" crc="490132221" ref="phone>p2_image_3"/>
+      <file name="p2_image_8.css" crc="445597174" ref="phone>p2_image_8"/>
+      <file name="iefonts_p2_image_8.css" crc="3955104397" ref="phone>p2_image_8"/>
+      <file name="p2_image_4.css" crc="465266501" ref="phone>p2_image_4"/>
+      <file name="iefonts_p2_image_4.css" crc="161578475" ref="phone>p2_image_4"/>
+      <file name="news.css" crc="4149164775" ref="phone>news"/>
+      <file name="iefonts_news.css" crc="452970059" ref="phone>news"/>
+      <file name="about-me.css" crc="3935022417" ref="phone>about-me"/>
+      <file name="iefonts_about-me.css" crc="3836964285" ref="phone>about-me"/>
+      <file name="about-two.css" crc="3893446377" ref="phone>about-two"/>
+      <file name="iefonts_about-two.css" crc="19357868" ref="phone>about-two"/>
+      <file name="index.css" crc="3851489925" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3927441275" ref="phone>index"/>
+      <file name="home-slider.css" crc="203808742" ref="phone>home-slider"/>
+      <file name="iefonts_home-slider.css" crc="4082187191" ref="phone>home-slider"/>
+      <file name="home-video.css" crc="3865169531" ref="phone>home-video"/>
+      <file name="iefonts_home-video.css" crc="3847798398" ref="phone>home-video"/>
+      <file name="portfolio-1.css" crc="4026279312" ref="phone>portfolio-1"/>
+      <file name="iefonts_portfolio-1.css" crc="3999867765" ref="phone>portfolio-1"/>
+      <file name="image_1.css" crc="6696164" ref="phone>image_1"/>
+      <file name="iefonts_image_1.css" crc="3994186901" ref="phone>image_1"/>
+      <file name="image_2.css" crc="406214065" ref="phone>image_2"/>
+      <file name="iefonts_image_2.css" crc="3848795986" ref="phone>image_2"/>
+      <file name="image_3.css" crc="141941038" ref="phone>image_3"/>
+      <file name="iefonts_image_3.css" crc="469144838" ref="phone>image_3"/>
+      <file name="portfolio-2.css" crc="4214882030" ref="phone>portfolio-2"/>
+      <file name="iefonts_portfolio-2.css" crc="4118450335" ref="phone>portfolio-2"/>
+      <file name="image_4.css" crc="323270907" ref="phone>image_4"/>
+      <file name="iefonts_image_4.css" crc="397892438" ref="phone>image_4"/>
+      <file name="portfolio-3.css" crc="382610105" ref="phone>portfolio-3"/>
+      <file name="iefonts_portfolio-3.css" crc="4128991485" ref="phone>portfolio-3"/>
+      <file name="image_5.css" crc="186864517" ref="phone>image_5"/>
+      <file name="iefonts_image_5.css" crc="3899950674" ref="phone>image_5"/>
+      <file name="service.css" crc="4060164145" ref="phone>service"/>
+      <file name="iefonts_service.css" crc="424193040" ref="phone>service"/>
+      <file name="image_6.css" crc="3916074103" ref="phone>image_6"/>
+      <file name="iefonts_image_6.css" crc="4221882563" ref="phone>image_6"/>
+      <file name="contact.css" crc="4124473670" ref="phone>contact"/>
+      <file name="iefonts_contact.css" crc="4237976282" ref="phone>contact"/>
+      <file name="image_7.css" crc="4259409107" ref="phone>image_7"/>
+      <file name="iefonts_image_7.css" crc="461355323" ref="phone>image_7"/>
+      <file name="p2_image_6.css" crc="3823346099" ref="phone>p2_image_6"/>
+      <file name="iefonts_p2_image_6.css" crc="106780837" ref="phone>p2_image_6"/>
+      <file name="image_8.css" crc="4193384315" ref="phone>image_8"/>
+      <file name="iefonts_image_8.css" crc="4050510967" ref="phone>image_8"/>
+      <file name="p2_image_5.css" crc="157471828" ref="phone>p2_image_5"/>
+      <file name="iefonts_p2_image_5.css" crc="4241451788" ref="phone>p2_image_5"/>
+      <file name="image_9.css" crc="4145490494" ref="phone>image_9"/>
+      <file name="iefonts_image_9.css" crc="489319886" ref="phone>image_9"/>
+      <file name="p2_image_7.css" crc="4041105845" ref="phone>p2_image_7"/>
+      <file name="iefonts_p2_image_7.css" crc="4018223125" ref="phone>p2_image_7"/>
+      <file name="p2_image_1.css" crc="263947744" ref="phone>p2_image_1"/>
+      <file name="iefonts_p2_image_1.css" crc="3763070730" ref="phone>p2_image_1"/>
+    </folder>
+    <file name="index.html" crc="152964808" seo="true" mt="1582385889879" redirect="true"/>
+    <file name="home-slider.html" crc="238088927" seo="true" mt="1582385889893" redirect="true"/>
+    <file name="home-video.html" crc="3861703363" seo="true" mt="1582385925730" redirect="true"/>
+    <file name="portfolio-1.html" crc="439230803" seo="true" mt="1582385928699" redirect="true"/>
+    <file name="image_1.html" crc="407793532" seo="true" mt="1582385876052" redirect="true"/>
+    <file name="image_2.html" crc="36034348" seo="true" mt="1582385889875" redirect="true"/>
+    <file name="image_3.html" crc="238032208" seo="true" mt="1582385877681" redirect="true"/>
+    <file name="image_4.html" crc="459120599" seo="true" mt="1582385928696" redirect="true"/>
+    <file name="image_5.html" crc="217532368" seo="true" mt="1582385886310" redirect="true"/>
+    <file name="image_6.html" crc="383171825" seo="true" mt="1582385879379" redirect="true"/>
+    <file name="image_7.html" crc="3874131180" seo="true" mt="1582385928464" redirect="true"/>
+    <file name="image_8.html" crc="3899042863" seo="true" mt="1582385881400" redirect="true"/>
+    <file name="image_9.html" crc="3827802778" seo="true" mt="1582385927994" redirect="true"/>
+    <file name="portfolio-2.html" crc="258377941" seo="true" mt="1582385928702" redirect="true"/>
+    <file name="p2_image_1.html" crc="449532145" seo="true" mt="1582385876062" redirect="true"/>
+    <file name="portfolio-3.html" crc="3854378434" seo="true" mt="1582385889095" redirect="true"/>
+    <file name="service.html" crc="4208939758" seo="true" mt="1434116538910" redirect="true"/>
+    <file name="news.html" crc="4224384426" seo="true" mt="1582385890299" redirect="true"/>
+    <file name="contact.html" crc="3822740573" seo="true" mt="1434116538910" redirect="true"/>
+    <file name="p2_image_2.html" crc="4256244075" seo="true" mt="1582385889889" redirect="true"/>
+    <file name="p2_image_3.html" crc="296720483" seo="true" mt="1582385879380" redirect="true"/>
+    <file name="p2_image_4.html" crc="3779820832" seo="true" mt="1582385886300" redirect="true"/>
+    <file name="p2_image_6.html" crc="4069167392" seo="true" mt="1582385877688" redirect="true"/>
+    <file name="p2_image_5.html" crc="296823023" seo="true" mt="1582385928692" redirect="true"/>
+    <file name="p2_image_7.html" crc="174941192" seo="true" mt="1582385927996" redirect="true"/>
+    <file name="p2_image_8.html" crc="498498629" seo="true" mt="1582385881398" redirect="true"/>
+    <file name="about-two.html" crc="196481641" seo="true" mt="1582385929079" redirect="true"/>
+    <file name="about-me.html" crc="4003226144" seo="true" mt="1582385929074" redirect="true"/>
+  </folder>
+  <file name="image_1.html" crc="4079224500" seo="true" mt="1582385876047" redirect="true"/>
+  <file name="contact.html" crc="522665249" seo="true" mt="1434492089706" redirect="true"/>
+  <file name="service.html" crc="4109399344" seo="true" mt="1434492089706" redirect="true"/>
+  <file name="portfolio-1.html" crc="338106053" seo="true" mt="1582385928704" redirect="true"/>
+  <file name="image_2.html" crc="255369618" seo="true" mt="1582385889891" redirect="true"/>
+  <file name="image_3.html" crc="285652196" seo="true" mt="1582385877690" redirect="true"/>
+  <file name="image_4.html" crc="56052121" seo="true" mt="1582385928700" redirect="true"/>
+  <file name="image_5.html" crc="4232292926" seo="true" mt="1582385886292" redirect="true"/>
+  <file name="image_6.html" crc="3926597907" seo="true" mt="1582385879381" redirect="true"/>
+  <file name="image_7.html" crc="265345752" seo="true" mt="1582385928467" redirect="true"/>
+  <file name="image_8.html" crc="469574825" seo="true" mt="1582385881396" redirect="true"/>
+  <file name="image_9.html" crc="95396414" seo="true" mt="1582385927992" redirect="true"/>
+  <file name="portfolio-2.html" crc="4273184288" seo="true" mt="1582385928695" redirect="true"/>
+  <file name="p2-image_1.html" crc="2221375" seo="true" mt="1582385876046" redirect="true"/>
+  <file name="p2-image_2.html" crc="3966649641" seo="true" mt="1582385889877" redirect="true"/>
+  <file name="p2-image_6.html" crc="467770741" seo="true" mt="1582385877678" redirect="true"/>
+  <file name="p2-image_5.html" crc="69925019" seo="true" mt="1582385928701" redirect="true"/>
+  <file name="p2-image_4.html" crc="225472931" seo="true" mt="1582385886298" redirect="true"/>
+  <file name="p2-image_3.html" crc="4159126388" seo="true" mt="1582385879374" redirect="true"/>
+  <file name="p2-image-8.html" crc="3819921723" seo="true" mt="1582385881386" redirect="true"/>
+  <file name="p2-image_7.html" crc="110341250" seo="true" mt="1582385927986" redirect="true"/>
+  <file name="portfolio-3.html" crc="204365692" seo="true" mt="1582385889787" redirect="true"/>
+  <file name="home-slider.html" crc="3837594829" seo="true" mt="1582385889884" redirect="true"/>
+  <file name="home-video.html" crc="447600408" seo="true" mt="1582385925728" redirect="true"/>
+  <file name="about-us.html" crc="4116016066" seo="true" mt="1582385929072" redirect="true"/>
+  <file name="index.html" crc="213372014" seo="true" mt="1582385928698" redirect="true"/>
+  <file name="about-me.html" crc="4102438400" seo="true" mt="1582385929075" redirect="true"/>
 </manifest>
