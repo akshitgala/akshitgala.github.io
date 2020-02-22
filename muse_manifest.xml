@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.museframe.com" resolutions="1x,2x" timestamp="1582390686013">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="demo.museframe.com" resolutions="1x,2x" timestamp="1582391540511">
   <folder name="css">
     <file name="site_global.css" crc="221441679"/>
     <file name="master_a-master.css" crc="4167694860" ref="image_8:portfolio-2:about-us:contact:p2-image_4:image_1:p2-image_3:image_9:image_2:about-me:p2-image_1:image_3:p2-image_2:image_4:image_5:image_6:home-slider:image_7:home-video:index:service:portfolio-1:p2-image_6:p2-image_5:p2-image-8:p2-image_7:portfolio-3"/>
@@ -1209,92 +1209,92 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="83378220" ref="phone>p2_image_2:phone>p2_image_3:phone>p2_image_8:phone>p2_image_4:phone>news:phone>about-me:phone>about-two:phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>portfolio-2:phone>image_4:phone>portfolio-3:phone>image_5:phone>service:phone>image_6:phone>contact:phone>image_7:phone>p2_image_6:phone>image_8:phone>p2_image_5:phone>image_9:phone>p2_image_7:phone>p2_image_1"/>
-      <file name="p2_image_2.css" crc="336930287" ref="phone>p2_image_2"/>
+      <file name="master_a-master.css" crc="53687457" ref="phone>p2_image_2:phone>p2_image_3:phone>p2_image_8:phone>p2_image_4:phone>news:phone>about-me:phone>about-two:phone>index:phone>home-slider:phone>home-video:phone>portfolio-1:phone>image_1:phone>image_2:phone>image_3:phone>portfolio-2:phone>image_4:phone>portfolio-3:phone>image_5:phone>service:phone>image_6:phone>contact:phone>image_7:phone>p2_image_6:phone>image_8:phone>p2_image_5:phone>image_9:phone>p2_image_7:phone>p2_image_1"/>
+      <file name="p2_image_2.css" crc="263504125" ref="phone>p2_image_2"/>
       <file name="iefonts_p2_image_2.css" crc="98606232" ref="phone>p2_image_2"/>
-      <file name="p2_image_3.css" crc="333393623" ref="phone>p2_image_3"/>
+      <file name="p2_image_3.css" crc="405026745" ref="phone>p2_image_3"/>
       <file name="iefonts_p2_image_3.css" crc="3851499273" ref="phone>p2_image_3"/>
-      <file name="p2_image_8.css" crc="384844522" ref="phone>p2_image_8"/>
+      <file name="p2_image_8.css" crc="223455224" ref="phone>p2_image_8"/>
       <file name="iefonts_p2_image_8.css" crc="320470905" ref="phone>p2_image_8"/>
-      <file name="p2_image_4.css" crc="4191039837" ref="phone>p2_image_4"/>
+      <file name="p2_image_4.css" crc="3889137179" ref="phone>p2_image_4"/>
       <file name="iefonts_p2_image_4.css" crc="4043741215" ref="phone>p2_image_4"/>
-      <file name="news.css" crc="477891597" ref="phone>news"/>
+      <file name="news.css" crc="514218607" ref="phone>news"/>
       <file name="iefonts_news.css" crc="191667980" ref="phone>news"/>
-      <file name="about-me.css" crc="4087013397" ref="phone>about-me"/>
+      <file name="about-me.css" crc="3854787694" ref="phone>about-me"/>
       <file name="iefonts_about-me.css" crc="3859329508" ref="phone>about-me"/>
-      <file name="about-two.css" crc="34532040" ref="phone>about-two"/>
+      <file name="about-two.css" crc="301167380" ref="phone>about-two"/>
       <file name="iefonts_about-two.css" crc="404180986" ref="phone>about-two"/>
-      <file name="index.css" crc="234078278" ref="phone>index"/>
+      <file name="index.css" crc="55994114" ref="phone>index"/>
       <file name="iefonts_index.css" crc="180467106" ref="phone>index"/>
-      <file name="home-slider.css" crc="3824367748" ref="phone>home-slider"/>
+      <file name="home-slider.css" crc="4034828097" ref="phone>home-slider"/>
       <file name="iefonts_home-slider.css" crc="4294255545" ref="phone>home-slider"/>
-      <file name="home-video.css" crc="439004359" ref="phone>home-video"/>
+      <file name="home-video.css" crc="3824370309" ref="phone>home-video"/>
       <file name="iefonts_home-video.css" crc="105076396" ref="phone>home-video"/>
-      <file name="portfolio-1.css" crc="430641550" ref="phone>portfolio-1"/>
+      <file name="portfolio-1.css" crc="4117869310" ref="phone>portfolio-1"/>
       <file name="iefonts_portfolio-1.css" crc="3994092050" ref="phone>portfolio-1"/>
-      <file name="image_1.css" crc="260468510" ref="phone>image_1"/>
+      <file name="image_1.css" crc="3846096818" ref="phone>image_1"/>
       <file name="iefonts_image_1.css" crc="380997985" ref="phone>image_1"/>
-      <file name="image_2.css" crc="328117151" ref="phone>image_2"/>
+      <file name="image_2.css" crc="38364653" ref="phone>image_2"/>
       <file name="iefonts_image_2.css" crc="499126950" ref="phone>image_2"/>
-      <file name="image_3.css" crc="53349686" ref="phone>image_3"/>
+      <file name="image_3.css" crc="3778337512" ref="phone>image_3"/>
       <file name="iefonts_image_3.css" crc="3813765362" ref="phone>image_3"/>
-      <file name="portfolio-2.css" crc="287632535" ref="phone>portfolio-2"/>
+      <file name="portfolio-2.css" crc="3890642145" ref="phone>portfolio-2"/>
       <file name="iefonts_portfolio-2.css" crc="3795496908" ref="phone>portfolio-2"/>
-      <file name="image_4.css" crc="520067532" ref="phone>image_4"/>
+      <file name="image_4.css" crc="4242886162" ref="phone>image_4"/>
       <file name="iefonts_image_4.css" crc="4010852002" ref="phone>image_4"/>
-      <file name="portfolio-3.css" crc="4107334962" ref="phone>portfolio-3"/>
+      <file name="portfolio-3.css" crc="129677967" ref="phone>portfolio-3"/>
       <file name="iefonts_portfolio-3.css" crc="3892202115" ref="phone>portfolio-3"/>
-      <file name="image_5.css" crc="4150702052" ref="phone>image_5"/>
+      <file name="image_5.css" crc="3840194747" ref="phone>image_5"/>
       <file name="iefonts_image_5.css" crc="282289062" ref="phone>image_5"/>
-      <file name="service.css" crc="4261578493" ref="phone>service"/>
+      <file name="service.css" crc="389805433" ref="phone>service"/>
       <file name="iefonts_service.css" crc="371677835" ref="phone>service"/>
-      <file name="image_6.css" crc="228012269" ref="phone>image_6"/>
+      <file name="image_6.css" crc="3973869218" ref="phone>image_6"/>
       <file name="iefonts_image_6.css" crc="50541879" ref="phone>image_6"/>
-      <file name="contact.css" crc="3775430749" ref="phone>contact"/>
+      <file name="contact.css" crc="281900439" ref="phone>contact"/>
       <file name="iefonts_contact.css" crc="206986167" ref="phone>contact"/>
-      <file name="image_7.css" crc="4283590588" ref="phone>image_7"/>
+      <file name="image_7.css" crc="3973083363" ref="phone>image_7"/>
       <file name="iefonts_image_7.css" crc="3822607567" ref="phone>image_7"/>
-      <file name="p2_image_6.css" crc="4125812404" ref="phone>p2_image_6"/>
+      <file name="p2_image_6.css" crc="440940057" ref="phone>p2_image_6"/>
       <file name="iefonts_p2_image_6.css" crc="4277845329" ref="phone>p2_image_6"/>
-      <file name="image_8.css" crc="417158465" ref="phone>image_8"/>
+      <file name="image_8.css" crc="152738611" ref="phone>image_8"/>
       <file name="iefonts_image_8.css" crc="164233603" ref="phone>image_8"/>
-      <file name="p2_image_5.css" crc="3920482077" ref="phone>p2_image_5"/>
+      <file name="p2_image_5.css" crc="101654448" ref="phone>p2_image_5"/>
       <file name="iefonts_p2_image_5.css" crc="73961208" ref="phone>p2_image_5"/>
-      <file name="image_9.css" crc="65625445" ref="phone>image_9"/>
+      <file name="image_9.css" crc="3790834363" ref="phone>image_9"/>
       <file name="iefonts_image_9.css" crc="3851257914" ref="phone>image_9"/>
-      <file name="p2_image_7.css" crc="228176716" ref="phone>p2_image_7"/>
+      <file name="p2_image_7.css" crc="3795543009" ref="phone>p2_image_7"/>
       <file name="iefonts_p2_image_7.css" crc="388423137" ref="phone>p2_image_7"/>
-      <file name="p2_image_1.css" crc="4115492113" ref="phone>p2_image_1"/>
+      <file name="p2_image_1.css" crc="451919292" ref="phone>p2_image_1"/>
       <file name="iefonts_p2_image_1.css" crc="418120446" ref="phone>p2_image_1"/>
     </folder>
-    <file name="index.html" crc="4013439470" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="home-slider.html" crc="4225260581" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="home-video.html" crc="472950136" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="portfolio-1.html" crc="144689500" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_1.html" crc="3852538398" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_2.html" crc="3796248497" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_3.html" crc="366460914" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_4.html" crc="122217400" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_5.html" crc="431278917" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_6.html" crc="4220936303" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_7.html" crc="4223029678" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_8.html" crc="350104330" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="image_9.html" crc="312486951" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="portfolio-2.html" crc="328359628" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="p2_image_1.html" crc="3790232459" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="portfolio-3.html" crc="3806014976" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="service.html" crc="3805731793" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="news.html" crc="394393024" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="contact.html" crc="398853157" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="p2_image_2.html" crc="4159348578" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="p2_image_3.html" crc="4192038790" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="p2_image_4.html" crc="30590806" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="p2_image_6.html" crc="3917166304" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="p2_image_5.html" crc="123295971" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="p2_image_7.html" crc="3762241776" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="p2_image_8.html" crc="170958673" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="about-two.html" crc="74685640" seo="true" mt="1582390529985" redirect="true"/>
-    <file name="about-me.html" crc="4233338416" seo="true" mt="1582390529985" redirect="true"/>
+    <file name="index.html" crc="56028208" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="home-slider.html" crc="3801918467" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="home-video.html" crc="39878038" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="portfolio-1.html" crc="62834387" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_1.html" crc="3961387371" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_2.html" crc="4000551753" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_3.html" crc="3914933866" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_4.html" crc="324521" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_5.html" crc="453040109" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_6.html" crc="144684275" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_7.html" crc="4117734485" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_8.html" crc="4053898978" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="image_9.html" crc="4092590373" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="portfolio-2.html" crc="519303031" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="p2_image_1.html" crc="3876360500" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="portfolio-3.html" crc="4084351010" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="service.html" crc="4119312479" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="news.html" crc="3876085248" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="contact.html" crc="4106714987" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="p2_image_2.html" crc="199428942" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="p2_image_3.html" crc="521068027" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="p2_image_4.html" crc="4109086985" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="p2_image_6.html" crc="3876447642" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="p2_image_5.html" crc="258400505" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="p2_image_7.html" crc="3927322555" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="p2_image_8.html" crc="4167423306" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="about-two.html" crc="80228199" seo="true" mt="1582391394505" redirect="true"/>
+    <file name="about-me.html" crc="428999647" seo="true" mt="1582391394505" redirect="true"/>
   </folder>
   <file name="image_1.html" crc="4164733161" seo="true" mt="1582389420520" redirect="true"/>
   <file name="contact.html" crc="4277322094" seo="true" mt="1582389420520" redirect="true"/>
