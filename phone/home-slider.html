@@ -17,9 +17,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <link rel="canonical" href="http://demo.museframe.com/home-slider.html"/>
   <title>Home Slider</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=221441679"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=53687457"/>
-  <link rel="stylesheet" type="text/css" href="css/home-slider.css?crc=4034828097" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=3767601252"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=177468143"/>
+  <link rel="stylesheet" type="text/css" href="css/home-slider.css?crc=4210905154" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_home-slider.css?crc=4294255545"/>
@@ -86,7 +86,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <!-- /m_editable -->
         <!-- m_editable region-id="editable-static-tag-U39071-BP_infinity" template="phone/home-slider.html" data-type="image" data-ice-options="srcAttr=data-src" -->
         <div class="SSSlide invi clip_frame grpelem" id="u39071" data-muse-uid="U39071" data-muse-type="img_frame"><!-- image -->
-         <img class="block ImageInclude" id="u39071_img" data-src="../images/slider_2-crop-u39071.jpg?crc=3774567700" data-hidpi-src="../images/slider_2-crop-u39071_2x.jpg?crc=439180973" src="../images/blank.gif?crc=4208392903" alt="" data-width="360" data-height="196" data-muse-src="../images/slider_2-crop-u39071.jpg?crc=3774567700"/>
+         <img class="block ImageInclude" id="u39071_img" data-src="../images/slider_2-crop-u39071.jpg?crc=3814599253" data-hidpi-src="../images/slider_2-crop-u39071_2x.jpg?crc=226151578" src="../images/blank.gif?crc=4208392903" alt="" data-width="360" data-height="196" data-muse-src="../images/slider_2-crop-u39071.jpg?crc=3814599253"/>
         </div>
         <!-- /m_editable -->
        </div>
@@ -223,8 +223,8 @@ Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(el
 Muse.Utils.initWidget('#accordionu49422', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu49422 */
 Muse.Utils.initWidget('#slideshowu39068', ['#bp_infinity'], function(elem) { var widget = new WebPro.Widget.ContentSlideShow(elem, {autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:1500,enableSwipe:false,elastic:'off',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:false}); $(elem).data('widget', widget); return widget; });/* #slideshowu39068 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u38770-bw').registerPositionScrollEffect([{"in":[-Infinity,20],"speed":[null,0]},{"in":[20,Infinity],"speed":[null,0]}]);/* scroll effect */
-$('#u38953').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1]},{"in":[0,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u38770-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,20]},{"speed":[null,0],"in":[20,Infinity]}]);/* scroll effect */
+$('#u38953').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};

@@ -16,9 +16,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>P2_Image_8</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=221441679"/>
-  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=53687457"/>
-  <link rel="stylesheet" type="text/css" href="css/p2_image_8.css?crc=223455224" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="../css/site_global.css?crc=3767601252"/>
+  <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=177468143"/>
+  <link rel="stylesheet" type="text/css" href="css/p2_image_8.css?crc=80231004" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_p2_image_8.css?crc=320470905"/>
@@ -167,8 +167,8 @@ Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 Muse.Utils.initWidget('#accordionu49422', ['#bp_infinity'], function(elem) { return new WebPro.Widget.Accordion(elem, {canCloseAll:true,defaultIndex:-1}); });/* #accordionu49422 */
 Muse.Utils.fullPage('#page');/* 100% height page */
-$('#u38770-bw').registerPositionScrollEffect([{"in":[-Infinity,20],"speed":[null,0]},{"in":[20,Infinity],"speed":[null,0]}]);/* scroll effect */
-$('#u38953').registerPositionScrollEffect([{"in":[-Infinity,0],"speed":[0,1]},{"in":[0,Infinity],"speed":[0,0]}]);/* scroll effect */
+$('#u38770-bw').registerPositionScrollEffect([{"speed":[null,0],"in":[-Infinity,20]},{"speed":[null,0],"in":[20,Infinity]}]);/* scroll effect */
+$('#u38953').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.showWidgetsWhenReady();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 }catch(b){if(b&&"function"==typeof b.notify?b.notify():Muse.Assert.fail("Error calling selector function: "+b),false)throw b;}})})};
