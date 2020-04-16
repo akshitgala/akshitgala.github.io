@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://demo.museframe.com/index.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/index.html"/>
@@ -10,75 +10,93 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/tablet/p2_image_1.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_1.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/tablet/p2_image_2.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_2.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/tablet/p2_image_6.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_6.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/tablet/p2_image_5.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_5.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/tablet/p2_image_4.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_4.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/tablet/p2_image_3.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_3.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/tablet/p2_image_8.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_8.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/tablet/p2_image_7.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/p2_image_7.html"/>
   </url>
   <url>
-    <loc>http://demo.museframe.com/phone/news.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <loc>http://demo.museframe.com/phone/portfolio-sc.html</loc>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://demo.museframe.com/phone/about-two.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <loc>http://demo.museframe.com/phone/service-sc.html</loc>
+    <lastmod>2020-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://demo.museframe.com/phone/news.html</loc>
+    <lastmod>2020-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://demo.museframe.com/phone/contact-sc.html</loc>
+    <lastmod>2020-04-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://demo.museframe.com/phone/about-sc.html</loc>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/image_1.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_1.html"/>
@@ -86,31 +104,28 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/contact.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/contact.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/contact.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/service.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/service.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/service.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/portfolio-1.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/portfolio-1.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/portfolio-1.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/image_2.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_2.html"/>
@@ -118,38 +133,38 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/image_3.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_3.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/image_3.html"/>
   </url>
   <url>
-    <loc>http://demo.museframe.com/image_4.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <loc>http://demo.museframe.com/tablet/portfolio-3.html</loc>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_4.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/image_4.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/portfolio-3.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/image_5.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_5.html"/>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/image_5.html"/>
   </url>
   <url>
-    <loc>http://demo.museframe.com/tablet/portfolio-3.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <loc>http://demo.museframe.com/image_6.html</loc>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/portfolio-3.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_6.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/image_6.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/image_7.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_7.html"/>
@@ -157,7 +172,7 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/image_8.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_8.html"/>
@@ -165,7 +180,7 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/image_9.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_9.html"/>
@@ -173,7 +188,7 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/portfolio-2.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/portfolio-2.html"/>
@@ -181,55 +196,55 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/p2-image_1.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/p2-image_2.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/p2-image_6.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/p2-image_5.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/p2-image_4.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/p2-image_3.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/p2-image-8.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/p2-image_7.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://demo.museframe.com/portfolio--lightbox-.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -379,7 +394,7 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/home-slider.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/home-slider.html"/>
@@ -405,7 +420,7 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/home-video.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/home-video.html"/>
@@ -413,22 +428,22 @@
   </url>
   <url>
     <loc>http://demo.museframe.com/about-us.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/about-us.html"/>
   </url>
   <url>
-    <loc>http://demo.museframe.com/image_6.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <loc>http://demo.museframe.com/image_4.html</loc>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_6.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/image_6.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/image_4.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://demo.museframe.com/tablet/image_4.html"/>
   </url>
   <url>
     <loc>http://demo.museframe.com/about-me.html</loc>
-    <lastmod>2020-02-26</lastmod>
+    <lastmod>2020-04-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://demo.museframe.com/phone/about-me.html"/>
