@@ -27,8 +27,8 @@ $form = array(
 		'unknown_method' => 'Unknown server request method'
 	),
 	'email' => array(
-		'from' => 'change@inyourmail.com',
-		'to' => 'change@inyourmail.com'
+		'from' => 'bd.semicolon@gmail.com',
+		'to' => 'bd.semicolon@gmail.com'
 	),
 	'fields' => array(
 		'custom_U40663' => array(
