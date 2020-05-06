@@ -4,10 +4,6 @@
 
 /*---------------------------------- */
 
-/**
-	Amokachi - Portfolio Template 
-	Author : Tavonline
-	Copyright 2018
 
 
 /* Table of Content
@@ -677,6 +673,7 @@ blockquote {
 .page-menu li a:hover span {
     transform: scaleX(1);
     transform-origin: left;
+	color: #0067ff;
 }
 
 .page-menu li a.active span {
@@ -684,7 +681,7 @@ blockquote {
 }
 
 .page-menu li a span {
-    background: #b1b1b1;    
+    background: #0098ff;    
     position: absolute;
     top: 18px;
     left: -5px;
