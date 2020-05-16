@@ -238,6 +238,8 @@ blockquote {
 }
 
 .hello {
+	font-size: 34px;
+	font-weight: 500;
     color: #0161ee;
     line-height: 51px;
 }
@@ -1143,8 +1145,8 @@ header {
 
 .teammates .team img{
     width: 100%;
-    -webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
     transform: scale(1);    
     border-radius: 4px;
     -webkit-border-radius: 4px;
@@ -1163,6 +1165,7 @@ header {
     -webkit-filter: grayscale(0%);
     filter: grayscale(0%);
     transition: all ease 0.6s;
+	transform: scale(1.03);
     -webkit-transition: all ease 0.6s;
 }
 
@@ -1521,7 +1524,7 @@ footer p {
 }
 
 .uptotop:hover {
-    color: #000;
+    color: #0161ee;
     transition: color ease .3s;
     -webkit-transition: color ease .3s;
     -moz-transition: color ease .3s;
